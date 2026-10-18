@@ -1,0 +1,16 @@
+{
+  "name": "Itália 2026",
+  "short_name": "Itália 2026",
+  "description": "Roteiro de viagem – Itália, Rodrigo e Deise",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1C2B3B",
+  "theme_color": "#1C2B3B",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
